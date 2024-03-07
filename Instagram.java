@@ -5,7 +5,7 @@ import java.util.Map;
 public class Instagram {
     
     
-    // ArrayList<Integer> postList=new ArrayList<>();
+   
     Map<Integer,ArrayList<Integer>> posts=new HashMap<>();
    
     Map<Integer,Integer> stories=new HashMap<>();
